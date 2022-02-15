@@ -1,5 +1,5 @@
 # node-console-app-TODO
-TODO console app in node.js
+TODO console app in node.js, write and read into .json file
 
 MENU
 
